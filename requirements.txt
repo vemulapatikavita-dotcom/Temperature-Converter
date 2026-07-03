@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pandas
+
+
+No external libraries are required.
